@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am currently working on my full stack skills , and also learning the integration of web and AI , to use the power of LLM in my websites <br>I also have done 300 questions on GFG<br>I am keenly interested  in making projects <br>I am also learning about AWS <br>
+# 💫 About Me: 👋 Hey there! I'm Sankalp
+🚀 Currently leveling up my full-stack development skills (because frontend + backend = full power).<br>🤖 Learning how to blend Web + AI like a pro, and trying to make LLMs do cool things on my websites without hallucinating. <br>🧠 Solved 300+ DSA questions on GeeksforGeeks — yes, I fight arrays and pointers for fun.<br>💡 I love building projects — if I get an idea, I’m already halfway into making a repo for it. <br>☁️ Also exploring AWS, because… what's a developer without a little cloud magic? <br>
 
 
 ## 🌐 Socials:
