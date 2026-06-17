@@ -104,7 +104,7 @@
 
 ```javascript
 const sankalp = {
-  currentlyBuilding: ["AI-powered things", "MERN apps", "my sanity"],
+  currentlyBuilding: ["AI-powered things", "MERN apps", "the next big thing"],
   recentProjects: {
     "Typesto"  : "LLM-powered typing tutor  → because Monkeytype needed AI anxiety",
     "Intervo"  : "AI mock interview platform → judged by AI so humans don't have to",
