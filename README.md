@@ -23,7 +23,7 @@
 I'm **Sankalp**, a **Full-Stack + AI Engineer** who builds MERN apps and agentic AI systems, and ships them to real users. I teach LLMs to behave on my websites (current win rate: improving, with prompts getting better by the week).
 
 🎓 **B.Tech CSE @ BBDITM, Lucknow** · Batch 2023-2027 · CGPA **8.2/10**
-🧠 **300+ DSA problems** solved on GeeksforGeeks
+🧠 **500+ DSA problems** solved on GeeksforGeeks and Leetcode
 ☁️ AWS and Oracle Cloud certified
 💡 Idea at 2 AM → repo by 2:07 AM. Shipping speed is a feature.
 
@@ -58,9 +58,9 @@ I'm **Sankalp**, a **Full-Stack + AI Engineer** who builds MERN apps and agentic
     </td>
     <td align="center" width="25%">
       <h3>📈 Real Users</h3>
-      <b>SacchiRaah</b><br/>
-      NGO platform<br/>
-      <code>1000+ DAU</code><br/><br/>
+      <b>Intervoo</b><br/>
+      Agentic Interview Practice Platform<br/>
+      <code>50+ DAU</code><br/><br/>
       Production apps, not just localhost
     </td>
   </tr>
@@ -74,7 +74,7 @@ I'm **Sankalp**, a **Full-Stack + AI Engineer** who builds MERN apps and agentic
 |---|---|---|
 | 🧠 **Intervo** | Agentic AI mock interview platform. Judged by AI so you can practice before the humans show up. | LLMs · Agents · Full-Stack |
 | ⌨️ **Typesto** | LLM-powered typing tutor. Monkeytype, but it actually coaches you. | LLMs · React · Node |
-| 🤝 **SacchiRaah** | NGO platform serving **1000+ daily active users**. | MERN · Production |
+| 🤝 **MakeBetter** | Ground level problems solution platform **Under Devlopement**. | React · Springboot · MongoDB Atlas · Agent |
 
 ---
 
